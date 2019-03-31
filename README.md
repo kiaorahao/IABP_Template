@@ -75,15 +75,17 @@ Best Practice Template for IA BP
 
 
 ### 最终报告呈现：
-[最终报告目录](https://github.com/kiaorahao/IA003BP/blob/master/Report_TOC.md)
+[最终报告目录](https://github.com/kiaorahao/IABP_Template/blob/master/Delivery/Report_TOC.md)
 
-[最终PPT目录](https://github.com/kiaorahao/IA003BP/issues/3)
+[最终PPT目录](https://github.com/kiaorahao/IABP_Template/blob/master/Delivery/PPT_TOC.md)
+
+[最终报告内容(Wiki)](https://github.com/kiaorahao/IABP_Template/wiki)
 
 
 
 ## 项目进度
 
-
+### [项目进度一览(Project)](https://github.com/kiaorahao/IABP_Template/projects)
 
 ### ~~开始前~~
 
@@ -115,6 +117,7 @@ Best Practice Template for IA BP
 |          | 20190416(7wd2)     | 课程组     | 路演                                                         |
 
 
+
 ### 执行后
 
 | 日期           | meeting | 活动                       |
@@ -125,7 +128,7 @@ Best Practice Template for IA BP
 
 ## 项目原则
 
-[IA003BP/BP_Principles](https://github.com/kiaorahao/IA003BP/blob/master/BP_Principles)
+[IABP_Template](https://github.com/kiaorahao/IABP_Template/blob/master/BP_Principles.md)
 
 
 

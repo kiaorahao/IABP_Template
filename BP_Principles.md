@@ -23,6 +23,7 @@
 **字母**
 - `xs`:学术
 - `sy`:商业
+- `zy`:职业
 
 **数字**
 
@@ -81,9 +82,8 @@
 
 ### 5. 每日工作清单：
 
-1. 完成各自分工
-2. 每日复盘和计划：[IA003BP/BP Monitor.md](https://github.com/kiaorahao/IA003BP/blob/master/BP%20Monitor.md)
-3. 不定时、不定期同步、异步沟通。
+1. 根据Projects进度完成各自分工并update状态
+2. 不定时、不定期同步、异步沟通。
 
 包括：隔天一次沟通会等。
 
