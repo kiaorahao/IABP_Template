@@ -131,7 +131,7 @@ Best Practice Template for IA BP
 
 ## 后记
 
-对于前面提到的[开智信息分析架构图](https://github.com/kiaorahao/IABP_Template/blob/master/assets/%E5%BC%80%E6%99%BA%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90%E6%9E%B6%E6%9E%84%E5%9B%BE.png)，我在[190328开智信分四期BP分享](https://github.com/kiaorahao/openmind/blob/master/IA/190328%E5%BC%80%E6%99%BA%E4%BF%A1%E5%88%86%E5%9B%9B%E6%9C%9FBP%E5%88%86%E4%BA%AB.pdf)上也提了一下，即，但是因为时间仓促，而这个路线图涉及到内隐知识太多，并没展开论述，做个mark先。
+对于前面提到的[开智信息分析架构图](https://github.com/kiaorahao/IABP_Template/blob/master/assets/%E5%BC%80%E6%99%BA%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90%E6%9E%B6%E6%9E%84%E5%9B%BE.png)，我在[190328开智信分四期BP分享](https://github.com/kiaorahao/openmind/blob/master/IA/190328%E5%BC%80%E6%99%BA%E4%BF%A1%E5%88%86%E5%9B%9B%E6%9C%9FBP%E5%88%86%E4%BA%AB.pdf)上也提了一下，即[个人信息决策系统路线图](https://github.com/kiaorahao/IABP_Template/blob/master/assets/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%86%B3%E7%AD%96%E7%B3%BB%E7%BB%9F%E8%B7%AF%E7%BA%BF%E5%9B%BE.png)，但是因为时间仓促，而这个路线图涉及到内隐知识太多，并没展开论述，做个mark先。
 
 ## Changelog
 
