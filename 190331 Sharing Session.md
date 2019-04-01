@@ -3,9 +3,37 @@ Best Practice Template for IA BP
 
 
 
+## 摘要
+1. 介绍Github 在信分BP、以及后BP时期的应用和基础操作示范；
+2. 分为三级讲解：基础任务，进阶1，进阶2。本次只讲完基础任务；
+3. 形成信分BP仓库模板，希望后续利用"机器学习"思维模型，持续优化迭代。
+
+
+
+## 人时地
+
+召集人：舟舟
+
+参与人:  信分四期九大区
+
+主讲人：皓同学
+
+会议时间: 190331 10：30am
+
+会议地点: Zoom
+
+
+
+## 内容正文
+
+
 ### 导语：
 
-舟舟每次给布置作业，我都想着不能辜负队长的期望啊，得交付一个可迭代的小"作品"。 第一次分享-开智信息分析架构图，这一次分享-信分BP Github 模板。
+舟舟每次给布置作业，我都想着不能辜负队长的期望，得交付一个可迭代的小"作品"。
+
+
+
+ 第一次分享是[开智信息分析架构图](https://github.com/kiaorahao/IABP_Template/blob/master/assets/%E5%BC%80%E6%99%BA%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90%E6%9E%B6%E6%9E%84%E5%9B%BE.png)，这一次分享-信分BP Github 模板。
 
 
 
@@ -29,9 +57,15 @@ Best Practice Template for IA BP
 
 
 
+但是，Github自有它的傲娇之处。它符合一个好工具的标准：老少咸宜，相看两不厌。第一眼看"这不就是…" ，而对于高手则是"竟然还能这么玩…"。
 
 
-## 基础任务
+
+一遇Github误终生。
+
+
+
+### 基础任务
 
 1. 点个赞先
 
@@ -60,7 +94,7 @@ Best Practice Template for IA BP
 
 
 
-## 进阶1：
+### 进阶1
 
 - 本地同步
   - Code：Github Desktop+Typora
@@ -77,7 +111,7 @@ Best Practice Template for IA BP
 
 
 
-## 进阶2：
+### 进阶2
 
 - git 命令行操作
   - terminal/ iTerm 2
@@ -91,3 +125,15 @@ Best Practice Template for IA BP
   - Codes 妙用：[个人Principles](https://github.com/kiaorahao/Principles/blob/master/principles.md)
   - 版本比对的妙用：[跟着阳老师学写作](https://github.com/kiaorahao/awesome_tools/commit/741df630d578d5b281204203038fa099bd274026#diff-47cdbe3c2969a48e63edeb5f143e1230)
 
+
+
+
+
+## 后记
+
+对于前面提到的[开智信息分析架构图](https://github.com/kiaorahao/IABP_Template/blob/master/assets/%E5%BC%80%E6%99%BA%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90%E6%9E%B6%E6%9E%84%E5%9B%BE.png)，我在[190328开智信分四期BP分享](https://github.com/kiaorahao/openmind/blob/master/IA/190328%E5%BC%80%E6%99%BA%E4%BF%A1%E5%88%86%E5%9B%9B%E6%9C%9FBP%E5%88%86%E4%BA%AB.pdf)上也提了一下，即，但是因为时间仓促，而这个路线图涉及到内隐知识太多，并没展开论述，做个mark先。
+
+## Changelog
+
+- 190401 V1.1 皓同学 更新格式，填补头尾内容 
+- 190331 V1.0 皓同学 初稿 
