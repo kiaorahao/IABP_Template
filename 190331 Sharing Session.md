@@ -27,7 +27,7 @@ Best Practice Template for IA BP
 ## 内容正文
 
 
-### 导语：
+### 导语
 
 舟舟每次给布置作业，我都想着不能辜负队长的期望，得交付一个可迭代的小"作品"。
 
@@ -69,24 +69,24 @@ Best Practice Template for IA BP
 
 1. 点个赞先
 
-   - star：友情点赞，收藏
-   - watch：监控，变化随时通知
-   - Fork：协同作业，一起干活
+   - star：友情点赞，收藏；打酱油的
+   - watch：监控，变化随时通知；观察员，队长，教练
+   - Fork：协同作业，一起干活；BP组员
 
 2. 参与讨论和分工
 
-   - Issues：卡片
+   - Issues：其实就是BBS灌水，**卡片级别**
    - Projects（可选项）：项目进度一览
 
 3. 提交正式文档
 
-   - Code：文章
+   - Code：**文章级别**
 
 4. 最终成品展示
 
-   - Wiki：项目
+   - Wiki：**项目级别**
 
-5. Google Chrome app
+5. 好用的Google Chrome app
 
    - Github TOC
 
